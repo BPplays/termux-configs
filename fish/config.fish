@@ -3,7 +3,7 @@ if status is-interactive
 
 set fish_greeting
 neofetch
-~/.posh/oh-my-posh init fish --config ~/.poshthemes/theme.omp.json | source
+~/.posh/oh-my-posh init fish --config ~/.posh/.poshthemes/theme.omp.json | source
     # Commands to run in interactive sessions can go here
 end
 set -gx XDG_DATA_HOME "$HOME/.local/share"
