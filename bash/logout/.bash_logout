@@ -1,0 +1,1 @@
+nohup ~/.logout/termux-wake-unlock.sh &
