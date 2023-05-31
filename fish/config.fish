@@ -28,5 +28,6 @@ function tmux-restart-all
 end
 alias tra=tmux-restart-all
 alias r=tmux-restart-all
+alias rr='tmux respawn-pane'
 
 alias vim=nvim
